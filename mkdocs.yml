@@ -1,0 +1,73 @@
+site_name: 中古游戏机急救指南
+site_url: https://retro-consoles-wiki.example.com
+site_description: 经典游戏机维修知识库 - 拯救你的童年回忆
+site_author: 中古游戏机爱好者社区
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 浅色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 深色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+
+repo_url: https://github.com/yourusername/retro-consoles-wiki
+repo_name: GitHub
+
+copyright: Copyright &copy; 2026 中古游戏机爱好者社区
+
+nav:
+  - 首页: index.md
+  - PlayStation系列:
+    - PS2光头修复: ps2-lens-repair.md
+  - 任天堂掌机:
+    - GBA屏幕维修: gba-polarizer-replacement.md
+    - NDS转轴更换: nds-hinge-replacement.md
+  - PSP维修:
+    - 电池激活: psp-battery-reactivation.md
+  - 超级任天堂:
+    - 外壳去黄: sfc-yellowing-removal.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+      name: GitHub
+    - icon: fontawesome/brands/weixin
+      link: https://weixin.qq.com
+      name: 微信公众号
+
+plugins:
+  - search
