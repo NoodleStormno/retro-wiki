@@ -13,6 +13,11 @@
 - [Game Boy Pocket按键维修完全指南](gbp-button-repair.md) - 修复失灵的方向键和AB键
 - [Game Boy Pocket电源开关更换完全指南](gbp-power-switch-replacement.md) - 更换接触不良的电源开关
 - [Game Boy Pocket屏幕更换完全指南](gbp-screen-replacement.md) - 更换损坏的液晶屏幕
+- [Nintendo DS下屏幕更换完全指南](nds-bottom-screen-replacement.md) - 更换损坏的下触摸屏
+- [Nintendo DS电池更换完全指南](nds-battery-replacement.md) - 更换老化的电池
+- [Nintendo DS铰链维修完全指南](nds-hinge-repair.md) - 修复松动或断裂的铰链
+- [Nintendo DS主板维修完全指南](nds-motherboard-repair.md) - 修复主板电源和芯片问题
+- [Nintendo DS上屏幕更换完全指南](nds-top-screen-replacement.md) - 更换损坏的上屏幕
 
 #### 世嘉主机系列
 - [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
@@ -53,5 +58,6 @@
 ---
 
 **最后更新**：2026年2月28日  
-**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕）  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕）  
+**总文章数**：16篇维修指南  
 **维护者**：中古游戏机爱好者社区

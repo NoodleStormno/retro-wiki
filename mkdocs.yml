@@ -38,12 +38,19 @@ copyright: Copyright &copy; 2026 中古游戏机爱好者社区
 nav:
   - 首页: index.md
   - 任天堂掌机:
-    - GameBoy Pocket液晶横线修复: gbp-screen-fix.md
-    - Game Boy Pocket主板维修: gbp-motherboard-repair.md
-    - Game Boy Pocket外壳更换: gbp-shell-replacement.md
-    - Game Boy Pocket按键维修: gbp-button-repair.md
-    - Game Boy Pocket电源开关更换: gbp-power-switch-replacement.md
-    - Game Boy Pocket屏幕更换: gbp-screen-replacement.md
+    - GameBoy Pocket系列:
+      - GameBoy Pocket液晶横线修复: gbp-screen-fix.md
+      - Game Boy Pocket主板维修: gbp-motherboard-repair.md
+      - Game Boy Pocket外壳更换: gbp-shell-replacement.md
+      - Game Boy Pocket按键维修: gbp-button-repair.md
+      - Game Boy Pocket电源开关更换: gbp-power-switch-replacement.md
+      - Game Boy Pocket屏幕更换: gbp-screen-replacement.md
+    - Nintendo DS系列:
+      - Nintendo DS下屏幕更换: nds-bottom-screen-replacement.md
+      - Nintendo DS电池更换: nds-battery-replacement.md
+      - Nintendo DS铰链维修: nds-hinge-repair.md
+      - Nintendo DS主板维修: nds-motherboard-repair.md
+      - Nintendo DS上屏幕更换: nds-top-screen-replacement.md
   - 世嘉主机:
     - セガサターン电池更换与读取改善: ss-battery-fix.md
   - 其他维修指南:
