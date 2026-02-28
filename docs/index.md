@@ -8,6 +8,11 @@
 
 #### 任天堂掌机系列
 - [GameBoy Pocket液晶横线修复完全指南](gbp-screen-fix.md) - 解决GameBoy Pocket屏幕横线问题
+- [Game Boy Pocket主板维修完全指南](gbp-motherboard-repair.md) - 修复主板电容、芯片和电路问题
+- [Game Boy Pocket外壳更换完全指南](gbp-shell-replacement.md) - 更换磨损或损坏的外壳
+- [Game Boy Pocket按键维修完全指南](gbp-button-repair.md) - 修复失灵的方向键和AB键
+- [Game Boy Pocket电源开关更换完全指南](gbp-power-switch-replacement.md) - 更换接触不良的电源开关
+- [Game Boy Pocket屏幕更换完全指南](gbp-screen-replacement.md) - 更换损坏的液晶屏幕
 
 #### 世嘉主机系列
 - [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
@@ -48,4 +53,5 @@
 ---
 
 **最后更新**：2026年2月28日  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕）  
 **维护者**：中古游戏机爱好者社区
