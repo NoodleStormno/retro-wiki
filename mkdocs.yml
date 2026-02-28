@@ -39,6 +39,11 @@ nav:
   - 首页: index.md
   - 任天堂掌机:
     - GameBoy Pocket液晶横线修复: gbp-screen-fix.md
+    - Game Boy Pocket主板维修: gbp-motherboard-repair.md
+    - Game Boy Pocket外壳更换: gbp-shell-replacement.md
+    - Game Boy Pocket按键维修: gbp-button-repair.md
+    - Game Boy Pocket电源开关更换: gbp-power-switch-replacement.md
+    - Game Boy Pocket屏幕更换: gbp-screen-replacement.md
   - 世嘉主机:
     - セガサターン电池更换与读取改善: ss-battery-fix.md
   - 其他维修指南:
