@@ -30,22 +30,22 @@ theme:
     - content.tabs.link
     - content.code.annotate
 
-repo_url: https://github.com/yourusername/retro-consoles-wiki
+repo_url: https://github.com/NoodleStormno/retro-wiki
 repo_name: GitHub
 
 copyright: Copyright &copy; 2026 中古游戏机爱好者社区
 
 nav:
   - 首页: index.md
-  - PlayStation系列:
-    - PS2光头修复: ps2-lens-repair.md
   - 任天堂掌机:
-    - GBA屏幕维修: gba-polarizer-replacement.md
-    - NDS转轴更换: nds-hinge-replacement.md
-  - PSP维修:
-    - 电池激活: psp-battery-reactivation.md
-  - 超级任天堂:
-    - 外壳去黄: sfc-yellowing-removal.md
+    - GameBoy Pocket液晶横线修复: gbp-screen-fix.md
+  - 世嘉主机:
+    - セガサターン电池更换与读取改善: ss-battery-fix.md
+  - 其他维修指南:
+    - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
+    - PS1激光头调整: ps1-laser-adjustment.md
+    - GameCube光盘读取错误: gamecube-disc-read-error.md
+    - 世嘉土星记忆电池更换: sega-saturn-battery-save.md
 
 markdown_extensions:
   - admonition

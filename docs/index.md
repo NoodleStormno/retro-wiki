@@ -6,18 +6,17 @@
 
 ### 📁 维修教程分类
 
-#### PlayStation 系列
-- [PS2光头老化读盘卡顿修复](ps2-lens-repair.md) - 解决PS2读盘困难问题
-
 #### 任天堂掌机系列
-- [GBA屏幕烧屏换偏光膜教程](gba-polarizer-replacement.md) - 修复GBA屏幕残影
-- [NDS转轴断裂更换外壳图文](nds-hinge-replacement.md) - 解决NDS转轴断裂问题
+- [GameBoy Pocket液晶横线修复完全指南](gbp-screen-fix.md) - 解决GameBoy Pocket屏幕横线问题
 
-#### PlayStation Portable
-- [PSP电池锁电红灯不亮激活](psp-battery-reactivation.md) - 激活锁死的PSP电池
+#### 世嘉主机系列
+- [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
 
-#### 超级任天堂
-- [SFC外壳发黄去黄水漂白比例](sfc-yellowing-removal.md) - 去除SFC外壳黄变
+#### 其他维修指南
+- [N64卡带接触清洁指南](n64-cartridge-contact-cleaning.md) - 解决N64卡带接触不良
+- [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
+- [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
+- [世嘉土星记忆电池更换](sega-saturn-battery-save.md) - 更换土星记忆电池
 
 ## 维修难度评级
 
