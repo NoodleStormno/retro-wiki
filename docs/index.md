@@ -31,6 +31,14 @@
   - [Nintendo Entertainment System 电源维修完全指南](nes-power-repair.md) - 修复NES电源故障
   - [Nintendo Entertainment System 主板维修完全指南](nes-motherboard-repair.md) - 修复NES主板问题
   - [Nintendo Entertainment System 控制器维修完全指南](nes-controller-repair.md) - 修复NES控制器故障
+  - [Super Nintendo卡带电池更换完全指南](snes-cartridge-battery-replacement.md) - 更换SNES卡带存档电池
+  - [Super Nintendo卡带更换完全指南](snes-cartridge-replacement.md) - 更换损坏的SNES卡带
+  - [Super Nintendo控制器端口更换完全指南](snes-controller-port-replacement.md) - 修复控制器连接问题
+  - [Super Nintendo弹出按钮更换完全指南](snes-eject-button-replacement.md) - 更换卡带弹出按钮
+  - [Super Nintendo主板更换完全指南](snes-motherboard-replacement.md) - 更换SNES主板
+  - [Super Nintendo外壳更换完全指南](snes-shell-replacement.md) - 更换磨损的外壳
+  - [Super Nintendo电源开关更换完全指南](snes-power-switch-replacement.md) - 修复电源开关问题
+  - [SNES 2CHIP 50-60Hz无开关改造完全指南](snes-2chip-mod.md) - 高级区域切换改造
   - [Nintendo 64卡带接触清洁指南](n64-cartridge-contact-cleaning.md) - 解决N64卡带接触不良
   - [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
 - **索尼家用机**：
@@ -69,6 +77,6 @@
 ---
 
 **最后更新**：2026年2月28日  
-**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池） + 5篇Nintendo Entertainment System详细维修指南（72针连接器、卡带清洁、电源、主板、控制器）  
-**总文章数**：26篇维修指南  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池） + 5篇Nintendo Entertainment System详细维修指南（72针连接器、卡带清洁、电源、主板、控制器） + 8篇Super Nintendo详细维修指南（卡带电池、卡带更换、控制器端口、弹出按钮、主板、外壳、电源开关、2CHIP改造）  
+**总文章数**：34篇维修指南  
 **维护者**：中古游戏机爱好者社区

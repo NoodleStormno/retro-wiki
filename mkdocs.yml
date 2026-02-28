@@ -65,6 +65,15 @@ nav:
         - NES 电源维修: nes-power-repair.md
         - NES 主板维修: nes-motherboard-repair.md
         - NES 控制器维修: nes-controller-repair.md
+      - Super Nintendo:
+        - Super Nintendo卡带电池更换: snes-cartridge-battery-replacement.md
+        - Super Nintendo卡带更换: snes-cartridge-replacement.md
+        - Super Nintendo控制器端口更换: snes-controller-port-replacement.md
+        - Super Nintendo弹出按钮更换: snes-eject-button-replacement.md
+        - Super Nintendo主板更换: snes-motherboard-replacement.md
+        - Super Nintendo外壳更换: snes-shell-replacement.md
+        - Super Nintendo电源开关更换: snes-power-switch-replacement.md
+        - SNES 2CHIP 50-60Hz无开关改造: snes-2chip-mod.md
       - Nintendo 64:
         - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
       - GameCube:
