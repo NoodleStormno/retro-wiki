@@ -51,6 +51,12 @@ nav:
       - Nintendo DS铰链维修: nds-hinge-repair.md
       - Nintendo DS主板维修: nds-motherboard-repair.md
       - Nintendo DS上屏幕更换: nds-top-screen-replacement.md
+    - Nintendo 3DS系列:
+      - Nintendo 3DS摇杆漂移修复: 3ds-circle-pad-repair.md
+      - Nintendo 3DS下屏幕更换: 3ds-bottom-screen-replacement.md
+      - Nintendo 3DS摄像头更换: 3ds-camera-replacement.md
+      - Nintendo 3DS主板维修: 3ds-motherboard-repair.md
+      - Nintendo 3DS电池更换: 3ds-battery-replacement.md
   - 世嘉主机:
     - セガサターン电池更换与读取改善: ss-battery-fix.md
   - 其他维修指南:

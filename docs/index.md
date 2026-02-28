@@ -18,6 +18,11 @@
 - [Nintendo DS铰链维修完全指南](nds-hinge-repair.md) - 修复松动或断裂的铰链
 - [Nintendo DS主板维修完全指南](nds-motherboard-repair.md) - 修复主板电源和芯片问题
 - [Nintendo DS上屏幕更换完全指南](nds-top-screen-replacement.md) - 更换损坏的上屏幕
+- [Nintendo 3DS摇杆漂移修复完全指南](3ds-circle-pad-repair.md) - 修复Circle Pad摇杆漂移问题
+- [Nintendo 3DS下屏幕更换完全指南](3ds-bottom-screen-replacement.md) - 更换损坏的下触摸屏
+- [Nintendo 3DS摄像头更换完全指南](3ds-camera-replacement.md) - 更换损坏的内外摄像头
+- [Nintendo 3DS主板维修完全指南](3ds-motherboard-repair.md) - 修复主板电源和BGA芯片问题
+- [Nintendo 3DS电池更换完全指南](3ds-battery-replacement.md) - 更换老化的电池
 
 #### 世嘉主机系列
 - [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
@@ -58,6 +63,6 @@
 ---
 
 **最后更新**：2026年2月28日  
-**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕）  
-**总文章数**：16篇维修指南  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池）  
+**总文章数**：21篇维修指南  
 **维护者**：中古游戏机爱好者社区
