@@ -76,6 +76,12 @@ nav:
         - SNES 2CHIP 50-60Hz无开关改造: snes-2chip-mod.md
       - Nintendo 64:
         - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
+        - Nintendo 64主板更换: n64-motherboard-replacement.md
+        - Nintendo 64金属板更换: n64-metal-plate-replacement.md
+        - Nintendo 64上盖更换: n64-top-cover-replacement.md
+        - Nintendo 64 LED状态灯更换: n64-led-replacement.md
+        - Nintendo 64卡带拆卸: n64-cartridge-disassembly.md
+        - Nintendo 64卡带电池更换（不丢存档）: n64-cartridge-battery-replacement.md
       - GameCube:
         - GameCube光盘读取错误修复: gamecube-disc-read-error.md
     - 索尼家用机:
