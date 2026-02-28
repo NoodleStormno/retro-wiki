@@ -24,14 +24,20 @@
 - [Nintendo 3DS主板维修完全指南](3ds-motherboard-repair.md) - 修复主板电源和BGA芯片问题
 - [Nintendo 3DS电池更换完全指南](3ds-battery-replacement.md) - 更换老化的电池
 
-#### 世嘉主机系列
-- [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
-
-#### 其他维修指南
-- [N64卡带接触清洁指南](n64-cartridge-contact-cleaning.md) - 解决N64卡带接触不良
-- [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
-- [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
-- [世嘉土星记忆电池更换](sega-saturn-battery-save.md) - 更换土星记忆电池
+#### 家用主机系列
+- **任天堂家用机**：
+  - [Nintendo Entertainment System 72针连接器更换完全指南](nes-72pin-connector-replacement.md) - 修复NES卡带读取问题
+  - [Nintendo Entertainment System 卡带清洁与维护完全指南](nes-cartridge-cleaning.md) - 清洁和维护NES卡带
+  - [Nintendo Entertainment System 电源维修完全指南](nes-power-repair.md) - 修复NES电源故障
+  - [Nintendo Entertainment System 主板维修完全指南](nes-motherboard-repair.md) - 修复NES主板问题
+  - [Nintendo Entertainment System 控制器维修完全指南](nes-controller-repair.md) - 修复NES控制器故障
+  - [Nintendo 64卡带接触清洁指南](n64-cartridge-contact-cleaning.md) - 解决N64卡带接触不良
+  - [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
+- **索尼家用机**：
+  - [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
+- **世嘉家用机**：
+  - [セガサターン电池更换与读取不良改善](ss-battery-fix.md) - 彻底解决土星记忆丢失和读取问题
+  - [世嘉土星记忆电池更换](sega-saturn-battery-save.md) - 更换土星记忆电池
 
 ## 维修难度评级
 
@@ -63,6 +69,6 @@
 ---
 
 **最后更新**：2026年2月28日  
-**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池）  
-**总文章数**：21篇维修指南  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池） + 5篇Nintendo Entertainment System详细维修指南（72针连接器、卡带清洁、电源、主板、控制器）  
+**总文章数**：26篇维修指南  
 **维护者**：中古游戏机爱好者社区

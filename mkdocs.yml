@@ -57,13 +57,25 @@ nav:
       - Nintendo 3DS摄像头更换: 3ds-camera-replacement.md
       - Nintendo 3DS主板维修: 3ds-motherboard-repair.md
       - Nintendo 3DS电池更换: 3ds-battery-replacement.md
-  - 世嘉主机:
-    - セガサターン电池更换与读取改善: ss-battery-fix.md
-  - 其他维修指南:
-    - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
-    - PS1激光头调整: ps1-laser-adjustment.md
-    - GameCube光盘读取错误: gamecube-disc-read-error.md
-    - 世嘉土星记忆电池更换: sega-saturn-battery-save.md
+  - 家用主机:
+    - 任天堂家用机:
+      - Nintendo Entertainment System:
+        - NES 72针连接器更换: nes-72pin-connector-replacement.md
+        - NES 卡带清洁维护: nes-cartridge-cleaning.md
+        - NES 电源维修: nes-power-repair.md
+        - NES 主板维修: nes-motherboard-repair.md
+        - NES 控制器维修: nes-controller-repair.md
+      - Nintendo 64:
+        - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
+      - GameCube:
+        - GameCube光盘读取错误修复: gamecube-disc-read-error.md
+    - 索尼家用机:
+      - PlayStation:
+        - PS1激光头调整: ps1-laser-adjustment.md
+    - 世嘉家用机:
+      - セガサターン:
+        - セガサターン电池更换与读取改善: ss-battery-fix.md
+        - 世嘉土星记忆电池更换: sega-saturn-battery-save.md
 
 markdown_extensions:
   - admonition
