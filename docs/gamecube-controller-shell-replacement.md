@@ -1,5 +1,7 @@
 # GameCube控制器外壳更换完全指南
 
+![GameCube 手柄](images/gamecube-controller.webp)
+
 ## 概述
 
 GameCube控制器外壳在长期使用后可能出现磨损、裂纹、变色或损坏。更换外壳不仅能恢复控制器外观，还能改善握持手感。本指南详细介绍GameCube控制器外壳更换的全过程。

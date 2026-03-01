@@ -1,5 +1,7 @@
 # GameCube控制器连接线维修完全指南
 
+![GameCube 手柄](images/gamecube-controller.webp)
+
 ## 概述
 
 GameCube控制器连接线是控制器与主机之间的生命线，长期使用容易出现磨损、断裂、接触不良等问题。本指南全面介绍GameCube控制器连接线的诊断、维修和更换方法。

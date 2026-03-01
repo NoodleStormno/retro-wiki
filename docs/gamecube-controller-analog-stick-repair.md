@@ -1,5 +1,7 @@
 # GameCube控制器摇杆漂移修复完全指南
 
+![GameCube 手柄](images/gamecube-controller.webp)
+
 ## 概述
 
 GameCube控制器以其独特的设计和出色的手感成为经典，但长时间使用后，模拟摇杆容易出现漂移问题。本指南将详细介绍如何诊断和修复GameCube控制器的摇杆漂移问题。

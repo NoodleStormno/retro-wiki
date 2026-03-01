@@ -1,5 +1,7 @@
 # GameCube控制器主板维修完全指南
 
+![GameCube 手柄](images/gamecube-controller.webp)
+
 ## 概述
 
 GameCube控制器主板是控制所有功能的核心组件，负责处理按键输入、摇杆信号、震动控制和数据传输。本指南深入介绍GameCube控制器主板的常见故障诊断与维修方法。

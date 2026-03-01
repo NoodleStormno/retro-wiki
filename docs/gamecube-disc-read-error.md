@@ -1,5 +1,7 @@
 # GameCube光盘读取错误与光头调节
 
+![GameCube](images/gamecube.webp)
+
 > 你的小方块GameCube开始挑食了！小光盘放进去，要么不转，要么转一下就停，经常显示Disc could not be read，光盘无法读取。有时候能进游戏，但过场动画卡顿，或者玩到一半突然读盘失败。最经典的是阳光马里奥玩到一半黑屏，血压直接拉满！
 
 ## 所需工具

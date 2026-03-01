@@ -1,5 +1,7 @@
 # GameCube控制器按键维修完全指南
 
+![GameCube 手柄](images/gamecube-controller.webp)
+
 ## 概述
 
 GameCube控制器的独特按键布局是其标志性设计之一，但长时间使用后可能出现按键失灵、粘连或手感变差等问题。本指南将详细介绍GameCube控制器各种按键的维修方法。

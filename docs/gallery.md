@@ -28,6 +28,38 @@
 
 ---
 
+## Nintendo 64
+
+![Nintendo 64](images/n64.webp)
+
+*Nintendo 64 主机*
+
+![Nintendo 64 手柄](images/n64-controller.webp)
+
+*Nintendo 64 手柄*
+
+---
+
+## GameCube
+
+![GameCube](images/gamecube.webp)
+
+*GameCube 橙色透明主机*
+
+![GameCube 手柄](images/gamecube-controller.webp)
+
+*GameCube 透明手柄*
+
+---
+
+## Wii
+
+![Wii](images/wii.webp)
+
+*Wii 白色主机*
+
+---
+
 ## Game Boy Pocket
 
 ![Game Boy Pocket](images/gameboy.webp)
@@ -49,14 +81,6 @@
 ![Nintendo 3DS](images/3ds.webp)
 
 *Nintendo 3DS 珊瑚粉色*
-
----
-
-## Wii
-
-![Wii](images/wii.webp)
-
-*Wii 白色主机*
 
 ---
 
