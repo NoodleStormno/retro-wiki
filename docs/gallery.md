@@ -4,21 +4,15 @@
 
 ---
 
-## 收藏展示
+## Super Nintendo (超级任天堂)
 
-### 测试图片
+![Super Nintendo](images/supernintendo.webp)
 
-<div class="gallery">
+*Super Nintendo 主机正面照*
 
-![测试图片1](images/test1.webp)
+![Super Nintendo 2](images/supernintendo2.webp)
 
-*测试图片 1*
-
-![测试图片2](images/test2.webp)
-
-*测试图片 2*
-
-</div>
+*Super Nintendo 主机侧面照*
 
 ---
 

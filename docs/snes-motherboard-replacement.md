@@ -1,5 +1,7 @@
 # Super Nintendo主板更换完全指南
 
+![Super Nintendo 主机](images/supernintendo.webp)
+
 ## 概述
 
 Super Nintendo（SNES）主板是主机的核心组件，包含CPU、PPU、RAM、ROM等关键芯片。由于老化、电源问题、物理损坏或液体损坏，主板可能出现各种故障。本指南将详细介绍如何诊断和更换SNES主板，这是最高级别的维修操作之一。

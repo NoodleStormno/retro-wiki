@@ -1,5 +1,7 @@
 # Super Nintendo外壳更换完全指南
 
+![Super Nintendo 主机](images/supernintendo2.webp)
+
 ## 概述
 
 Super Nintendo（SNES）的外壳保护着内部精密电子元件，但由于长期使用、不当存储或意外跌落，外壳可能出现裂纹、变色、磨损或损坏。本指南将详细介绍如何安全地更换SNES外壳，让您的主机焕然一新。
