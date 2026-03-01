@@ -24,6 +24,13 @@
 - [Nintendo 3DS主板维修完全指南](3ds-motherboard-repair.md) - 修复主板电源和BGA芯片问题
 - [Nintendo 3DS电池更换完全指南](3ds-battery-replacement.md) - 更换老化的电池
 
+#### 索尼掌机系列
+- [PSP 1000电池更换完全指南](psp-1000-battery-replacement.md) - 解决PSP续航短和充电问题
+- [PSP 1000摇杆维修完全指南](psp-1000-analog-stick-repair.md) - 修复摇杆漂移和方向失灵
+- [PSP 1000屏幕更换完全指南](psp-1000-screen-replacement.md) - 更换损坏的4.3英寸TFT屏幕
+- [PSP 1000 UMD光驱维修完全指南](psp-1000-umd-drive-repair.md) - 解决读盘困难和仓门问题
+- [PSP 1000主板维修完全指南](psp-1000-motherboard-repair.md) - 修复无法开机和各种功能故障
+
 #### 家用主机系列
 - **任天堂家用机**：
   - [Nintendo Entertainment System 72针连接器更换完全指南](nes-72pin-connector-replacement.md) - 修复NES卡带读取问题
