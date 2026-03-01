@@ -72,6 +72,11 @@
   - [Wii Nunchuk外壳更换完全指南](wii-nunchuk-shell-replacement.md) - 更换磨损或损坏的外壳
   - [Wii Nunchuk主板维修完全指南](wii-nunchuk-motherboard-repair.md) - 修复主板电路问题
   - [Wii Nunchuk连接线维修完全指南](wii-nunchuk-cable-repair.md) - 修复线缆磨损和连接问题
+  - [Wii遥控器摇杆维修与更换完全指南](wii-remote-analog-stick-repair.md) - 修复Wii遥控器方向键问题
+  - [Wii遥控器按键维修完全指南](wii-remote-button-repair.md) - 修复A/B/1/2/Home/电源等按键
+  - [Wii遥控器外壳更换完全指南](wii-remote-shell-replacement.md) - 更换磨损或损坏的外壳
+  - [Wii遥控器主板维修完全指南](wii-remote-motherboard-repair.md) - 修复主板电路和传感器问题
+  - [Wii遥控器电池仓维修完全指南](wii-remote-battery-compartment-repair.md) - 修复电池接触和供电问题
 - **索尼家用机**：
   - [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
 - **世嘉家用机**：
