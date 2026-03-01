@@ -30,6 +30,11 @@
 - [PSP 1000屏幕更换完全指南](psp-1000-screen-replacement.md) - 更换损坏的4.3英寸TFT屏幕
 - [PSP 1000 UMD光驱维修完全指南](psp-1000-umd-drive-repair.md) - 解决读盘困难和仓门问题
 - [PSP 1000主板维修完全指南](psp-1000-motherboard-repair.md) - 修复无法开机和各种功能故障
+- [PSP Go模拟摇杆更换完全指南](psp-go-analog-joystick-replacement.md) - 修复PSP Go摇杆漂移和失灵
+- [PSP Go后盖更换完全指南](psp-go-back-cover-replacement.md) - 更换损坏或划伤的PSP Go后盖
+- [PSP Go电池更换完全指南](psp-go-battery-replacement.md) - 解决PSP Go续航问题（iFixit精选）
+- [PSP Go底盖更换完全指南](psp-go-bottom-plate-replacement.md) - 更换底部面板，保护重要接口
+- [PSP Go方向键更换完全指南](psp-go-directional-pad-replacement.md) - 修复方向键失灵和手感问题
 
 #### 家用主机系列
 - **任天堂家用机**：
