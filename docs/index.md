@@ -42,6 +42,18 @@
 - [PSP Go主板更换完全指南](psp-go-logic-board-replacement.md) - 更换核心逻辑板（高级维修）
 - [PSP Go上盖更换完全指南](psp-go-top-cover-replacement.md) - 更换顶部面板，修复滑动机构
 - [PSP Go扳机按键更换完全指南](psp-go-trigger-buttons-replacement.md) - 更换L和R扳机按键
+- [PlayStation Vita电池更换完全指南](ps-vita-battery-replacement.md) - 解决PS Vita续航问题
+- [PlayStation Vita屏幕拆卸完全指南](ps-vita-screen-disassembly.md) - 拆卸5英寸OLED/LCD屏幕
+- [PlayStation Vita模拟摇杆更换完全指南](ps-vita-analog-stick-replacement.md) - 修复摇杆漂移和失灵
+- [PlayStation Vita方向键更换完全指南](ps-vita-directional-pad-replacement.md) - 修复方向键控制问题
+- [PlayStation Vita动作按键更换完全指南](ps-vita-action-buttons-replacement.md) - 更换△○×□动作按键
+- [PlayStation Vita肩键更换完全指南](ps-vita-shoulder-buttons-replacement.md) - 更换L和R肩键
+- [PlayStation Vita主板更换完全指南](ps-vita-motherboard-replacement.md) - 更换核心逻辑板（高级维修）
+- [PlayStation Vita后面板更换完全指南](ps-vita-rear-panel-replacement.md) - 更换后面板（1000系列含触摸板）
+- [PlayStation Vita摄像头更换完全指南](ps-vita-camera-replacement.md) - 更换前后摄像头
+- [PlayStation Vita扬声器更换完全指南](ps-vita-speakers-replacement.md) - 更换左右扬声器
+- [PlayStation Vita Wi-Fi天线更换完全指南](ps-vita-wifi-antenna-replacement.md) - 修复无线网络连接问题
+- [PlayStation Vita Start/Select按键更换完全指南](ps-vita-start-select-buttons-replacement.md) - 更换功能按键
 
 #### 家用主机系列
 - **任天堂家用机**：
