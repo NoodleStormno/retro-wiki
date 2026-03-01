@@ -35,6 +35,13 @@
 - [PSP Go电池更换完全指南](psp-go-battery-replacement.md) - 解决PSP Go续航问题（iFixit精选）
 - [PSP Go底盖更换完全指南](psp-go-bottom-plate-replacement.md) - 更换底部面板，保护重要接口
 - [PSP Go方向键更换完全指南](psp-go-directional-pad-replacement.md) - 修复方向键失灵和手感问题
+- [PSP Go屏幕更换完全指南](psp-go-display-replacement.md) - 更换损坏的3.8英寸液晶屏幕
+- [PSP Go前面板更换完全指南](psp-go-front-panel-replacement.md) - 更换前面板，修复边框和按键区域
+- [PSP Go游戏按键更换完全指南](psp-go-gamepad-buttons-replacement.md) - 更换△○×□动作按键
+- [PSP Go耳机插孔更换完全指南](psp-go-headphone-jack-replacement.md) - 修复音频输出和接触问题
+- [PSP Go主板更换完全指南](psp-go-logic-board-replacement.md) - 更换核心逻辑板（高级维修）
+- [PSP Go上盖更换完全指南](psp-go-top-cover-replacement.md) - 更换顶部面板，修复滑动机构
+- [PSP Go扳机按键更换完全指南](psp-go-trigger-buttons-replacement.md) - 更换L和R扳机按键
 
 #### 家用主机系列
 - **任天堂家用机**：
