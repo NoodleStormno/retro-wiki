@@ -6,7 +6,6 @@ site_author: 中古游戏机爱好者社区
 theme:
   name: material
   language: zh
-  custom_dir: docs/assets/overrides
   palette:
     - scheme: default
       primary: indigo
@@ -30,6 +29,7 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotate
+    - content.action.edit
 
 repo_url: https://github.com/NoodleStormno/retro-wiki
 repo_name: GitHub
@@ -194,12 +194,12 @@ markdown_extensions:
 
 extra:
   alternate:
-    - link: /en/
-      name: English
-      lang: en
-    - link: /
-      name: 简体中文
+    - name: 简体中文
+      link: /
       lang: zh
+    - name: English
+      link: /en/
+      lang: en
   css:
     - extra.css
   social:
@@ -216,12 +216,10 @@ plugins:
       default_language: zh
       languages:
         - locale: zh
-          name: 中文
+          name: 简体中文
           build: true
           default: true
         - locale: en
           name: English
           build: true
-          link: /en/
-      docs_structure: suffix
       fallback_to_default: true
