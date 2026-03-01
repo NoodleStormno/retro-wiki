@@ -1,5 +1,7 @@
 # Game Boy Pocket 电源开关更换完全指南
 
+![Game Boy Pocket](images/gameboy.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的Game Boy Pocket电源开关接触不良，开机需要反复拨动多次，有时玩到一半自动关机，最糟糕的是开关完全失效，机器变成砖头。玩RPG游戏时突然关机，几小时的游戏进度全没了。

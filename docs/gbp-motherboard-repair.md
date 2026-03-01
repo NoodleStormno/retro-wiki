@@ -1,5 +1,7 @@
 # Game Boy Pocket 主板维修完全指南
 
+![Game Boy Pocket](images/gameboy.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的Game Boy Pocket开机无反应，屏幕一片漆黑，或者游戏运行异常。可能是主板上的电容老化漏液，也可能是某个芯片接触不良。最糟糕的情况是主板腐蚀，电路板上的铜箔都断了。

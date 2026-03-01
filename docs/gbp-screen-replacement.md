@@ -1,5 +1,7 @@
 # Game Boy Pocket 屏幕更换完全指南
 
+![Game Boy Pocket](images/gameboy.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的Game Boy Pocket屏幕损坏，可能是液晶漏液出现黑斑，可能是屏幕划伤影响观看，也可能是背光（如果改装过）失效。最严重的是屏幕完全碎裂，游戏画面支离破碎。

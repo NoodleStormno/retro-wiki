@@ -1,5 +1,7 @@
 # Game Boy Pocket 外壳更换完全指南
 
+![Game Boy Pocket](images/gameboy.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的Game Boy Pocket外壳磨损严重，划痕遍布，甚至开裂。可能是多年的使用痕迹，也可能是意外摔落造成的损伤。最可惜的是那些限量版颜色，外壳损坏了价值就大打折扣。

@@ -1,5 +1,7 @@
 # Game Boy Pocket 按键维修完全指南
 
+![Game Boy Pocket](images/gameboy.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的Game Boy Pocket按键失灵，方向键某个方向没反应，AB键按下去弹不起来，Select/Start键时好时坏。玩俄罗斯方块时方块不受控制往右掉，玩口袋妖怪时无法打开菜单。最气人的是，关键时刻按键失灵，游戏记录全没了。

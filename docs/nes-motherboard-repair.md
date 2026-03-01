@@ -1,5 +1,7 @@
 # Nintendo Entertainment System 主板维修完全指南
 
+![NES 红白机](images/nes1.webp)
+
 秋叶原20年老师傅亲授
 
 > 你的NES主板故障，开机无画面，有声音没图像，或者游戏运行异常。玩《魂斗罗》时突然死机，玩《恶魔城》时画面撕裂。最糟糕的是PPU或CPU芯片损坏，维修成本高昂。

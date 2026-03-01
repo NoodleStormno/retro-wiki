@@ -4,6 +4,18 @@
 
 ---
 
+## Nintendo Entertainment System (红白机)
+
+![NES 红白机](images/nes1.webp)
+
+*NES 红白机主机*
+
+![NES 红白机](images/nes2.webp)
+
+*NES 红白机另一角度*
+
+---
+
 ## Super Nintendo (超级任天堂)
 
 ![Super Nintendo](images/supernintendo.webp)
@@ -13,6 +25,38 @@
 ![Super Nintendo 高达限定版](images/supernintendo2.webp)
 
 *Super Nintendo 高达限定版正面照*
+
+---
+
+## Game Boy Pocket
+
+![Game Boy Pocket](images/gameboy.webp)
+
+*Game Boy Pocket 透明紫色*
+
+---
+
+## Nintendo DS
+
+![Nintendo DS](images/nds.webp)
+
+*Nintendo DS Lite 黑色*
+
+---
+
+## Nintendo 3DS
+
+![Nintendo 3DS](images/3ds.webp)
+
+*Nintendo 3DS 珊瑚粉色*
+
+---
+
+## Wii
+
+![Wii](images/wii.webp)
+
+*Wii 白色主机*
 
 ---
 
