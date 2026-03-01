@@ -1,5 +1,7 @@
 # Super Nintendo控制器端口更换完全指南
 
+![Super Nintendo 高达限定版](images/supernintendo2.webp)
+
 ## 概述
 
 Super Nintendo（SNES）主机正面有两个控制器端口，用于连接标准SNES控制器。由于长期插拔、灰尘积累或物理损坏，这些端口可能出现接触不良、松动或完全失效的问题。本指南将详细介绍如何诊断和更换SNES控制器端口。

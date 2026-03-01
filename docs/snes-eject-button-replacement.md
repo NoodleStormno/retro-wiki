@@ -1,5 +1,7 @@
 # Super Nintendo弹出按钮更换完全指南
 
+![Super Nintendo 高达限定版](images/supernintendo2.webp)
+
 ## 概述
 
 Super Nintendo（SNES）的弹出按钮（Eject Button）位于主机正面，用于轻松取出游戏卡带。由于长期使用，这个按钮可能出现磨损、卡滞或完全失效的问题。本指南将详细介绍如何诊断和更换SNES的弹出按钮。

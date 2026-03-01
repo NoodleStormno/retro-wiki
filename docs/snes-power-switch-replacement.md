@@ -1,5 +1,7 @@
 # Super Nintendo电源开关更换完全指南
 
+![Super Nintendo 主机](images/supernintendo.webp)
+
 ## 概述
 
 Super Nintendo（SNES）的电源开关是使用频率最高的部件之一，控制主机的通电状态。由于长期使用、灰尘积累或内部氧化，电源开关可能出现接触不良、卡滞或完全失效的问题。本指南将详细介绍如何诊断和更换SNES电源开关。

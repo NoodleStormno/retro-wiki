@@ -1,5 +1,7 @@
 # Super Nintendo卡带更换完全指南
 
+![Super Nintendo 主机](images/supernintendo.webp)
+
 ## 概述
 
 Super Nintendo（SNES）游戏卡带是游戏数据的存储介质。由于长期使用、不当存储或物理损坏，卡带可能出现接触不良、数据读取失败等问题。本指南将详细介绍如何诊断和更换有问题的SNES卡带。

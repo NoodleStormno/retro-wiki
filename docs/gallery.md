@@ -8,11 +8,11 @@
 
 ![Super Nintendo](images/supernintendo.webp)
 
-*Super Nintendo 主机正面照*
+*Super Nintendo 主机*
 
-![Super Nintendo 2](images/supernintendo2.webp)
+![Super Nintendo 高达限定版](images/supernintendo2.webp)
 
-*Super Nintendo 主机侧面照*
+*Super Nintendo 高达限定版正面照*
 
 ---
 

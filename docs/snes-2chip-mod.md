@@ -1,5 +1,7 @@
 # SNES 2CHIP 50-60 Hz 无开关改造 + LED改造完全指南
 
+![Super Nintendo 高达限定版](images/supernintendo2.webp)
+
 ## 概述
 
 本指南介绍如何对使用2CHIP主板的Super Nintendo（SNES）进行高级改造，实现50Hz/60Hz无开关自动切换，并添加状态LED指示灯。这项改造特别适合PAL地区（50Hz）的SNES用户，使其能够无缝运行NTSC（60Hz）游戏，同时通过LED指示灯显示当前视频模式。

@@ -1,5 +1,7 @@
 # Super Nintendo卡带电池更换完全指南
 
+![Super Nintendo 主机](images/supernintendo.webp)
+
 ## 概述
 
 Super Nintendo（SNES）游戏卡带内部通常包含一个CR2032纽扣电池，用于保存游戏进度。随着时间的推移，这些电池会耗尽电量，导致游戏存档丢失。本指南将详细介绍如何安全地更换SNES卡带电池。
