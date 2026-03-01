@@ -6,6 +6,17 @@ site_author: 中古游戏机爱好者社区
 theme:
   name: material
   language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.action.edit
   palette:
     - scheme: default
       primary: indigo
@@ -37,35 +48,35 @@ repo_name: GitHub
 copyright: Copyright &copy; 2026 中古游戏机爱好者社区
 
 nav:
-  - 首页: index.md
-  - 任天堂掌机:
-    - GameBoy Pocket系列:
+  - i18n_首页: index.md
+  - i18n_任天堂掌机:
+    - i18n_GameBoy Pocket系列:
       - GameBoy Pocket液晶横线修复: gbp-screen-fix.md
       - Game Boy Pocket主板维修: gbp-motherboard-repair.md
       - Game Boy Pocket外壳更换: gbp-shell-replacement.md
       - Game Boy Pocket按键维修: gbp-button-repair.md
       - Game Boy Pocket电源开关更换: gbp-power-switch-replacement.md
       - Game Boy Pocket屏幕更换: gbp-screen-replacement.md
-    - Nintendo DS系列:
+    - i18n_Nintendo DS系列:
       - Nintendo DS下屏幕更换: nds-bottom-screen-replacement.md
       - Nintendo DS电池更换: nds-battery-replacement.md
       - Nintendo DS铰链维修: nds-hinge-repair.md
       - Nintendo DS主板维修: nds-motherboard-repair.md
       - Nintendo DS上屏幕更换: nds-top-screen-replacement.md
-    - Nintendo 3DS系列:
+    - i18n_Nintendo 3DS系列:
       - Nintendo 3DS摇杆漂移修复: 3ds-circle-pad-repair.md
       - Nintendo 3DS下屏幕更换: 3ds-bottom-screen-replacement.md
       - Nintendo 3DS摄像头更换: 3ds-camera-replacement.md
       - Nintendo 3DS主板维修: 3ds-motherboard-repair.md
       - Nintendo 3DS电池更换: 3ds-battery-replacement.md
-    - 索尼掌机:
-      - PSP 1000系列:
+    - i18n_索尼掌机:
+      - i18n_PSP 1000系列:
         - PSP 1000电池更换: psp-1000-battery-replacement.md
         - PSP 1000摇杆维修: psp-1000-analog-stick-repair.md
         - PSP 1000屏幕更换: psp-1000-screen-replacement.md
         - PSP 1000 UMD光驱维修: psp-1000-umd-drive-repair.md
         - PSP 1000主板维修: psp-1000-motherboard-repair.md
-      - PSP Go系列:
+      - i18n_PSP Go系列:
         - PSP Go模拟摇杆更换: psp-go-analog-joystick-replacement.md
         - PSP Go后盖更换: psp-go-back-cover-replacement.md
         - PSP Go电池更换: psp-go-battery-replacement.md
@@ -78,7 +89,7 @@ nav:
         - PSP Go主板更换: psp-go-logic-board-replacement.md
         - PSP Go上盖更换: psp-go-top-cover-replacement.md
         - PSP Go扳机按键更换: psp-go-trigger-buttons-replacement.md
-      - PlayStation Vita系列:
+      - i18n_PlayStation Vita系列:
         - PlayStation Vita电池更换: ps-vita-battery-replacement.md
         - PlayStation Vita屏幕拆卸: ps-vita-screen-disassembly.md
         - PlayStation Vita模拟摇杆更换: ps-vita-analog-stick-replacement.md
@@ -103,15 +114,15 @@ nav:
         - PlayStation Vita模拟摇杆帽更换: ps-vita-analog-stick-cap-replacement.md
         - PlayStation Vita屏幕触摸屏拆卸: ps-vita-screen-digitizer-disassembly.md
         - PlayStation Vita左右摇杆单独更换: ps-vita-left-right-joystick-replacement.md
-  - 家用主机:
-    - 任天堂家用机:
-      - Nintendo Entertainment System:
+  - i18n_家用主机:
+    - i18n_任天堂家用机:
+      - i18n_Nintendo Entertainment System:
         - NES 72针连接器更换: nes-72pin-connector-replacement.md
         - NES 卡带清洁维护: nes-cartridge-cleaning.md
         - NES 电源维修: nes-power-repair.md
         - NES 主板维修: nes-motherboard-repair.md
         - NES 控制器维修: nes-controller-repair.md
-      - Super Nintendo:
+      - i18n_Super Nintendo:
         - Super Nintendo卡带电池更换: snes-cartridge-battery-replacement.md
         - Super Nintendo卡带更换: snes-cartridge-replacement.md
         - Super Nintendo控制器端口更换: snes-controller-port-replacement.md
@@ -120,7 +131,7 @@ nav:
         - Super Nintendo外壳更换: snes-shell-replacement.md
         - Super Nintendo电源开关更换: snes-power-switch-replacement.md
         - SNES 2CHIP 50-60Hz无开关改造: snes-2chip-mod.md
-      - Nintendo 64:
+      - i18n_Nintendo 64:
         - N64卡带接触清洁: n64-cartridge-contact-cleaning.md
         - Nintendo 64主板更换: n64-motherboard-replacement.md
         - Nintendo 64金属板更换: n64-metal-plate-replacement.md
@@ -128,56 +139,56 @@ nav:
         - Nintendo 64 LED状态灯更换: n64-led-replacement.md
         - Nintendo 64卡带拆卸: n64-cartridge-disassembly.md
         - Nintendo 64卡带电池更换（不丢存档）: n64-cartridge-battery-replacement.md
-        - Nintendo 64控制器维修系列:
+        - i18n_Nintendo 64控制器维修系列:
           - Nintendo 64控制器摇杆更换与维修: n64-controller-analog-stick-repair.md
           - Nintendo 64控制器按键维修: n64-controller-button-repair.md
           - Nintendo 64控制器外壳更换: n64-controller-shell-replacement.md
           - Nintendo 64控制器主板维修: n64-controller-motherboard-repair.md
           - Nintendo 64控制器连接线维修: n64-controller-cable-repair.md
-      - GameCube:
+      - i18n_GameCube:
         - GameCube光盘读取错误修复: gamecube-disc-read-error.md
         - GameCube电源板维修: gamecube-power-supply-repair.md
         - GameCube手柄接口维修: gamecube-controller-port-repair.md
         - GameCube散热系统维修: gamecube-cooling-system-repair.md
         - GameCube音频输出维修: gamecube-audio-output-repair.md
         - GameCube视频输出维修: gamecube-video-output-repair.md
-        - GameCube控制器维修系列:
+        - i18n_GameCube控制器维修系列:
           - GameCube控制器摇杆漂移修复: gamecube-controller-analog-stick-repair.md
           - GameCube控制器按键维修: gamecube-controller-button-repair.md
           - GameCube控制器外壳更换: gamecube-controller-shell-replacement.md
           - GameCube控制器主板维修: gamecube-controller-motherboard-repair.md
           - GameCube控制器连接线维修: gamecube-controller-cable-repair.md
-      - Wii:
+      - i18n_Wii:
         - Wii光驱维修: wii-disc-drive-repair.md
         - Wii电源板维修: wii-power-supply-repair.md
         - Wii蓝牙/WiFi模块维修: wii-bluetooth-wifi-repair.md
         - Wii视频输出维修: wii-video-output-repair.md
         - Wii散热系统维修: wii-cooling-system-repair.md
-        - Wii Nunchuk维修系列:
+        - i18n_Wii Nunchuk维修系列:
           - Wii Nunchuk摇杆维修与更换: wii-nunchuk-analog-stick-repair.md
           - Wii Nunchuk按键维修: wii-nunchuk-button-repair.md
           - Wii Nunchuk外壳更换: wii-nunchuk-shell-replacement.md
           - Wii Nunchuk主板维修: wii-nunchuk-motherboard-repair.md
           - Wii Nunchuk连接线维修: wii-nunchuk-cable-repair.md
-        - Wii遥控器维修系列:
+        - i18n_Wii遥控器维修系列:
           - Wii遥控器摇杆维修与更换: wii-remote-analog-stick-repair.md
           - Wii遥控器按键维修: wii-remote-button-repair.md
           - Wii遥控器外壳更换: wii-remote-shell-replacement.md
           - Wii遥控器主板维修: wii-remote-motherboard-repair.md
           - Wii遥控器电池仓维修: wii-remote-battery-compartment-repair.md
-    - 索尼家用机:
-      - PlayStation:
+    - i18n_索尼家用机:
+      - i18n_PlayStation:
         - PS1激光头调整: ps1-laser-adjustment.md
-    - 世嘉家用机:
-      - セガサターン:
+    - i18n_世嘉家用机:
+      - i18n_セガサターン:
         - セガサターン电池更换与读取改善: ss-battery-fix.md
         - 世嘉土星记忆电池更换: sega-saturn-battery-save.md
-  - 图片库:
-    - 我的收藏: gallery.md
-  - 关于我们:
-    - 关于我们: about.md
-    - 联系我们: contact.md
-    - 隐私政策: privacy.md
+  - i18n_图片库:
+    - i18n_我的收藏: gallery.md
+  - i18n_关于我们:
+    - i18n_关于我们页面: about.md
+    - i18n_联系我们: contact.md
+    - i18n_隐私政策: privacy.md
 
 markdown_extensions:
   - admonition
@@ -223,3 +234,94 @@ plugins:
           name: English
           build: true
       fallback_to_default: true
+      nav_translations:
+        i18n_首页:
+          zh: 首页
+          en: Home
+        i18n_任天堂掌机:
+          zh: 任天堂掌机
+          en: Nintendo Handhelds
+        i18n_GameBoy Pocket系列:
+          zh: GameBoy Pocket系列
+          en: GameBoy Pocket Series
+        i18n_Nintendo DS系列:
+          zh: Nintendo DS系列
+          en: Nintendo DS Series
+        i18n_Nintendo 3DS系列:
+          zh: Nintendo 3DS系列
+          en: Nintendo 3DS Series
+        i18n_索尼掌机:
+          zh: 索尼掌机
+          en: Sony Handhelds
+        i18n_PSP 1000系列:
+          zh: PSP 1000系列
+          en: PSP 1000 Series
+        i18n_PSP Go系列:
+          zh: PSP Go系列
+          en: PSP Go Series
+        i18n_PlayStation Vita系列:
+          zh: PlayStation Vita系列
+          en: PlayStation Vita Series
+        i18n_家用主机:
+          zh: 家用主机
+          en: Home Consoles
+        i18n_任天堂家用机:
+          zh: 任天堂家用机
+          en: Nintendo Home Consoles
+        i18n_Nintendo Entertainment System:
+          zh: Nintendo Entertainment System
+          en: Nintendo Entertainment System
+        i18n_Super Nintendo:
+          zh: Super Nintendo
+          en: Super Nintendo
+        i18n_Nintendo 64:
+          zh: Nintendo 64
+          en: Nintendo 64
+        i18n_Nintendo 64控制器维修系列:
+          zh: Nintendo 64控制器维修系列
+          en: Nintendo 64 Controller Repair Series
+        i18n_GameCube:
+          zh: GameCube
+          en: GameCube
+        i18n_GameCube控制器维修系列:
+          zh: GameCube控制器维修系列
+          en: GameCube Controller Repair Series
+        i18n_Wii:
+          zh: Wii
+          en: Wii
+        i18n_Wii Nunchuk维修系列:
+          zh: Wii Nunchuk维修系列
+          en: Wii Nunchuk Repair Series
+        i18n_Wii遥控器维修系列:
+          zh: Wii遥控器维修系列
+          en: Wii Remote Repair Series
+        i18n_索尼家用机:
+          zh: 索尼家用机
+          en: Sony Home Consoles
+        i18n_PlayStation:
+          zh: PlayStation
+          en: PlayStation
+        i18n_世嘉家用机:
+          zh: 世嘉家用机
+          en: Sega Home Consoles
+        i18n_セガサターン:
+          zh: セガサターン
+          en: Sega Saturn
+        i18n_图片库:
+          zh: 图片库
+          en: Gallery
+        i18n_我的收藏:
+          zh: 我的收藏
+          en: My Collection
+        i18n_关于我们:
+          zh: 关于我们
+          en: About Us
+        i18n_关于我们页面:
+          zh: 关于我们
+          en: About Us
+        i18n_联系我们:
+          zh: 联系我们
+          en: Contact Us
+        i18n_隐私政策:
+          zh: 隐私政策
+          en: Privacy Policy
