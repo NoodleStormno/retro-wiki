@@ -1,0 +1,57 @@
+/* 确保语言选择器可见 */
+.md-select {
+  position: relative;
+  display: inline-block;
+}
+
+.md-select__inner {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 1000;
+  min-width: 120px;
+}
+
+.md-select--active .md-select__inner {
+  display: block;
+}
+
+.md-select__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.md-select__item {
+  margin: 0;
+}
+
+.md-select__link {
+  display: block;
+  padding: 8px 16px;
+  color: #333;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.md-select__link:hover {
+  background: #f5f5f5;
+  color: #0066cc;
+}
+
+/* 语言图标按钮 */
+.md-header__button[aria-label="选择语言"] {
+  margin-left: 8px;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 76.1875em) {
+  .md-select {
+    display: none; /* 在移动端隐藏 */
+  }
+}

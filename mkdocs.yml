@@ -200,6 +200,8 @@ extra:
     - link: /
       name: 简体中文
       lang: zh
+  css:
+    - extra.css
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/yourusername
