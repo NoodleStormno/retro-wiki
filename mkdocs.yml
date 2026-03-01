@@ -29,17 +29,7 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotate
-  # 添加语言选择器
-  extra:
-    alternate:
-      - name: English
-        link: /en/
-        lang: en
-        flag: us
-      - name: 简体中文
-        link: /
-        lang: zh
-        flag: cn
+    - navigation.language
 
 repo_url: https://github.com/NoodleStormno/retro-wiki
 repo_name: GitHub
@@ -203,6 +193,15 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+      flag: us
+    - name: 简体中文
+      link: /
+      lang: zh
+      flag: cn
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/yourusername
@@ -224,6 +223,5 @@ plugins:
           name: English
           build: true
           link: /en/
-      material_alternate: true
       docs_structure: suffix
       fallback_to_default: true
