@@ -54,6 +54,18 @@
 - [PlayStation Vita扬声器更换完全指南](ps-vita-speakers-replacement.md) - 更换左右扬声器
 - [PlayStation Vita Wi-Fi天线更换完全指南](ps-vita-wifi-antenna-replacement.md) - 修复无线网络连接问题
 - [PlayStation Vita Start/Select按键更换完全指南](ps-vita-start-select-buttons-replacement.md) - 更换功能按键
+- [PlayStation Vita 3G天线更换完全指南](ps-vita-3g-antenna-replacement.md) - 修复3G移动网络连接
+- [PlayStation Vita GPS天线更换完全指南](ps-vita-gps-antenna-replacement.md) - 修复GPS定位功能
+- [PlayStation Vita左侧按键板更换完全指南](ps-vita-left-button-board-replacement.md) - 更换左侧控制电路板
+- [PlayStation Vita右侧按键板更换完全指南](ps-vita-right-button-board-replacement.md) - 更换右侧控制电路板
+- [PlayStation Vita PS按键更换完全指南](ps-vita-ps-button-replacement.md) - 更换系统功能按键
+- [PlayStation Vita后置摄像头更换完全指南](ps-vita-rear-camera-replacement.md) - 专门更换后置摄像头
+- [PlayStation Vita SIM卡读卡器更换完全指南](ps-vita-sim-card-reader-replacement.md) - 修复SIM卡识别问题
+- [PlayStation Vita SIM卡更换完全指南](ps-vita-sim-card-replacement.md) - 更换移动网络SIM卡
+- [PlayStation Vita无线网卡更换完全指南](ps-vita-wireless-card-replacement.md) - 更换Wi-Fi/蓝牙模块
+- [PlayStation Vita模拟摇杆帽更换完全指南](ps-vita-analog-stick-cap-replacement.md) - 更换摇杆橡胶帽
+- [PlayStation Vita屏幕触摸屏拆卸完全指南](ps-vita-screen-digitizer-disassembly.md) - 高级屏幕维修（视频教程参考）
+- [PlayStation Vita左右摇杆单独更换完全指南](ps-vita-left-right-joystick-replacement.md) - 单独更换左或右摇杆
 
 #### 家用主机系列
 - **任天堂家用机**：
