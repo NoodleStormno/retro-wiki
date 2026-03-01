@@ -89,6 +89,12 @@ nav:
         - GameCube散热系统维修: gamecube-cooling-system-repair.md
         - GameCube音频输出维修: gamecube-audio-output-repair.md
         - GameCube视频输出维修: gamecube-video-output-repair.md
+        - GameCube控制器维修系列:
+          - GameCube控制器摇杆漂移修复: gamecube-controller-analog-stick-repair.md
+          - GameCube控制器按键维修: gamecube-controller-button-repair.md
+          - GameCube控制器外壳更换: gamecube-controller-shell-replacement.md
+          - GameCube控制器主板维修: gamecube-controller-motherboard-repair.md
+          - GameCube控制器连接线维修: gamecube-controller-cable-repair.md
       - Wii:
         - Wii光驱维修: wii-disc-drive-repair.md
         - Wii电源板维修: wii-power-supply-repair.md

@@ -52,6 +52,11 @@
   - [GameCube散热系统维修完全指南](gamecube-cooling-system-repair.md) - 解决过热和风扇噪音问题
   - [GameCube音频输出维修完全指南](gamecube-audio-output-repair.md) - 修复无声或声音异常问题
   - [GameCube视频输出维修完全指南](gamecube-video-output-repair.md) - 解决无图像或画面异常问题
+  - [GameCube控制器摇杆漂移修复完全指南](gamecube-controller-analog-stick-repair.md) - 修复摇杆漂移和精度问题
+  - [GameCube控制器按键维修完全指南](gamecube-controller-button-repair.md) - 修复按键失灵和粘连问题
+  - [GameCube控制器外壳更换完全指南](gamecube-controller-shell-replacement.md) - 更换磨损或损坏的外壳
+  - [GameCube控制器主板维修完全指南](gamecube-controller-motherboard-repair.md) - 修复主板电路和芯片问题
+  - [GameCube控制器连接线维修完全指南](gamecube-controller-cable-repair.md) - 修复线缆磨损和连接问题
   - [Wii光驱维修完全指南](wii-disc-drive-repair.md) - 解决Wii读盘问题和光驱故障
   - [Wii电源板维修完全指南](wii-power-supply-repair.md) - 修复电源故障和自动关机问题
   - [Wii蓝牙/WiFi模块维修完全指南](wii-bluetooth-wifi-repair.md) - 修复手柄断连和网络连接问题
