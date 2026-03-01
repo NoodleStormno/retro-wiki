@@ -1,0 +1,10 @@
+{
+  "name": "retro-wiki",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "pip install mkdocs-material mkdocs-static-i18n && mkdocs build --clean",
+    "serve": "mkdocs serve"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
