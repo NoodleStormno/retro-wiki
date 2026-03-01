@@ -171,6 +171,8 @@ nav:
       - セガサターン:
         - セガサターン电池更换与读取改善: ss-battery-fix.md
         - 世嘉土星记忆电池更换: sega-saturn-battery-save.md
+  - 图片库:
+    - 我的收藏: gallery.md
   - 关于我们:
     - 关于我们: about.md
     - 联系我们: contact.md
