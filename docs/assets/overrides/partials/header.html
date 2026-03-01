@@ -43,29 +43,45 @@
       {% endif %}
     {% endif %}
     
-    {# 自定义语言选择器 #}
+    {# 自定义语言选择器 - 带内联样式 #}
     <div class="md-header__option" style="margin-left: auto;">
-      <div class="md-select">
-        <button class="md-header__button md-icon" aria-label="选择语言" onclick="this.parentElement.classList.toggle('md-select--active')">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <div class="md-select" style="position: relative; display: inline-block;">
+        <button class="md-header__button md-icon" aria-label="选择语言" 
+                onclick="this.parentElement.classList.toggle('md-select--active')"
+                style="cursor: pointer;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
             <path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/>
           </svg>
         </button>
-        <div class="md-select__inner">
-          <ul class="md-select__list">
-            <li class="md-select__item">
-              <a href="/" class="md-select__link" hreflang="zh">
+        <div class="md-select__inner" style="display: none; position: absolute; right: 0; top: 100%; background: white; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); z-index: 1000; min-width: 120px;">
+          <ul class="md-select__list" style="list-style: none; margin: 0; padding: 0;">
+            <li class="md-select__item" style="margin: 0;">
+              <a href="/" class="md-select__link" hreflang="zh" style="display: block; padding: 8px 16px; color: #333; text-decoration: none; transition: background 0.2s;">
                 简体中文
               </a>
             </li>
-            <li class="md-select__item">
-              <a href="/en/" class="md-select__link" hreflang="en">
+            <li class="md-select__item" style="margin: 0;">
+              <a href="/en/" class="md-select__link" hreflang="en" style="display: block; padding: 8px 16px; color: #333; text-decoration: none; transition: background 0.2s;">
                 English
               </a>
             </li>
           </ul>
         </div>
       </div>
+      <style>
+        .md-select--active .md-select__inner {
+          display: block !important;
+        }
+        .md-select__link:hover {
+          background: #f5f5f5 !important;
+          color: #0066cc !important;
+        }
+        @media screen and (max-width: 76.1875em) {
+          .md-select {
+            display: none !important;
+          }
+        }
+      </style>
     </div>
     
     {# GitHub链接 #}
