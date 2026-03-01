@@ -52,6 +52,11 @@
   - [GameCube散热系统维修完全指南](gamecube-cooling-system-repair.md) - 解决过热和风扇噪音问题
   - [GameCube音频输出维修完全指南](gamecube-audio-output-repair.md) - 修复无声或声音异常问题
   - [GameCube视频输出维修完全指南](gamecube-video-output-repair.md) - 解决无图像或画面异常问题
+  - [Wii光驱维修完全指南](wii-disc-drive-repair.md) - 解决Wii读盘问题和光驱故障
+  - [Wii电源板维修完全指南](wii-power-supply-repair.md) - 修复电源故障和自动关机问题
+  - [Wii蓝牙/WiFi模块维修完全指南](wii-bluetooth-wifi-repair.md) - 修复手柄断连和网络连接问题
+  - [Wii视频输出维修完全指南](wii-video-output-repair.md) - 解决无图像或画面异常问题
+  - [Wii散热系统维修完全指南](wii-cooling-system-repair.md) - 解决过热和风扇噪音问题
 - **索尼家用机**：
   - [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
 - **世嘉家用机**：

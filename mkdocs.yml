@@ -89,6 +89,12 @@ nav:
         - GameCube散热系统维修: gamecube-cooling-system-repair.md
         - GameCube音频输出维修: gamecube-audio-output-repair.md
         - GameCube视频输出维修: gamecube-video-output-repair.md
+      - Wii:
+        - Wii光驱维修: wii-disc-drive-repair.md
+        - Wii电源板维修: wii-power-supply-repair.md
+        - Wii蓝牙/WiFi模块维修: wii-bluetooth-wifi-repair.md
+        - Wii视频输出维修: wii-video-output-repair.md
+        - Wii散热系统维修: wii-cooling-system-repair.md
     - 索尼家用机:
       - PlayStation:
         - PS1激光头调整: ps1-laser-adjustment.md
