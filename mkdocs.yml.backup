@@ -29,17 +29,6 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotate
-  # 添加语言选择器
-  extra:
-    alternate:
-      - name: English
-        link: /en/
-        lang: en
-        flag: us
-      - name: 简体中文
-        link: /
-        lang: zh
-        flag: cn
 
 repo_url: https://github.com/NoodleStormno/retro-wiki
 repo_name: GitHub
@@ -213,17 +202,3 @@ extra:
 
 plugins:
   - search
-  - i18n:
-      default_language: zh
-      languages:
-        - locale: zh
-          name: 中文
-          build: true
-          default: true
-        - locale: en
-          name: English
-          build: true
-          link: /en/
-      material_alternate: true
-      docs_structure: suffix
-      fallback_to_default: true
