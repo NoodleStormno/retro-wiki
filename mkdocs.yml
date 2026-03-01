@@ -84,6 +84,11 @@ nav:
         - Nintendo 64卡带电池更换（不丢存档）: n64-cartridge-battery-replacement.md
       - GameCube:
         - GameCube光盘读取错误修复: gamecube-disc-read-error.md
+        - GameCube电源板维修: gamecube-power-supply-repair.md
+        - GameCube手柄接口维修: gamecube-controller-port-repair.md
+        - GameCube散热系统维修: gamecube-cooling-system-repair.md
+        - GameCube音频输出维修: gamecube-audio-output-repair.md
+        - GameCube视频输出维修: gamecube-video-output-repair.md
     - 索尼家用机:
       - PlayStation:
         - PS1激光头调整: ps1-laser-adjustment.md

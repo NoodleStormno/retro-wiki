@@ -47,6 +47,11 @@
   - [Nintendo 64卡带拆卸完全指南](n64-cartridge-disassembly.md) - 安全拆卸N64卡带
   - [Nintendo 64卡带电池更换完全指南（不丢存档）](n64-cartridge-battery-replacement.md) - 更换电池并保住珍贵存档
   - [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
+  - [GameCube电源板维修完全指南](gamecube-power-supply-repair.md) - 修复电源故障和自动关机问题
+  - [GameCube手柄接口维修完全指南](gamecube-controller-port-repair.md) - 修复手柄连接和按键失灵
+  - [GameCube散热系统维修完全指南](gamecube-cooling-system-repair.md) - 解决过热和风扇噪音问题
+  - [GameCube音频输出维修完全指南](gamecube-audio-output-repair.md) - 修复无声或声音异常问题
+  - [GameCube视频输出维修完全指南](gamecube-video-output-repair.md) - 解决无图像或画面异常问题
 - **索尼家用机**：
   - [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
 - **世嘉家用机**：
@@ -82,7 +87,7 @@
 
 ---
 
-**最后更新**：2026年2月28日  
-**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池） + 5篇Nintendo Entertainment System详细维修指南（72针连接器、卡带清洁、电源、主板、控制器） + 8篇Super Nintendo详细维修指南（卡带电池、卡带更换、控制器端口、弹出按钮、主板、外壳、电源开关、2CHIP改造） + 7篇Nintendo 64详细维修指南（卡带接触清洁、主板更换、金属板更换、上盖更换、LED更换、卡带拆卸、卡带电池更换）  
-**总文章数**：41篇维修指南  
+**最后更新**：2026年3月1日  
+**新增内容**：5篇Game Boy Pocket详细维修指南（主板、外壳、按键、电源开关、屏幕） + 5篇Nintendo DS详细维修指南（下屏幕、电池、铰链、主板、上屏幕） + 5篇Nintendo 3DS详细维修指南（摇杆、下屏幕、摄像头、主板、电池） + 5篇Nintendo Entertainment System详细维修指南（72针连接器、卡带清洁、电源、主板、控制器） + 8篇Super Nintendo详细维修指南（卡带电池、卡带更换、控制器端口、弹出按钮、主板、外壳、电源开关、2CHIP改造） + 7篇Nintendo 64详细维修指南（卡带接触清洁、主板更换、金属板更换、上盖更换、LED更换、卡带拆卸、卡带电池更换） + 6篇GameCube详细维修指南（光盘读取、电源板、手柄接口、散热系统、音频输出、视频输出）  
+**总文章数**：47篇维修指南  
 **维护者**：中古游戏机爱好者社区
