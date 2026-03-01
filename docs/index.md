@@ -46,6 +46,11 @@
   - [Nintendo 64 LED状态灯更换完全指南](n64-led-replacement.md) - 更换不亮的电源指示灯
   - [Nintendo 64卡带拆卸完全指南](n64-cartridge-disassembly.md) - 安全拆卸N64卡带
   - [Nintendo 64卡带电池更换完全指南（不丢存档）](n64-cartridge-battery-replacement.md) - 更换电池并保住珍贵存档
+  - [Nintendo 64控制器摇杆更换与维修完全指南](n64-controller-analog-stick-repair.md) - 修复N64经典摇杆问题
+  - [Nintendo 64控制器按键维修完全指南](n64-controller-button-repair.md) - 修复A/B/C键和Z触发键
+  - [Nintendo 64控制器外壳更换完全指南](n64-controller-shell-replacement.md) - 更换独特的三手柄外壳
+  - [Nintendo 64控制器主板维修完全指南](n64-controller-motherboard-repair.md) - 修复主板电路问题
+  - [Nintendo 64控制器连接线维修完全指南](n64-controller-cable-repair.md) - 修复线缆磨损和连接问题
   - [GameCube光盘读取错误修复](gamecube-disc-read-error.md) - 解决GameCube读盘问题
   - [GameCube电源板维修完全指南](gamecube-power-supply-repair.md) - 修复电源故障和自动关机问题
   - [GameCube手柄接口维修完全指南](gamecube-controller-port-repair.md) - 修复手柄连接和按键失灵

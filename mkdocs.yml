@@ -82,6 +82,12 @@ nav:
         - Nintendo 64 LED状态灯更换: n64-led-replacement.md
         - Nintendo 64卡带拆卸: n64-cartridge-disassembly.md
         - Nintendo 64卡带电池更换（不丢存档）: n64-cartridge-battery-replacement.md
+        - Nintendo 64控制器维修系列:
+          - Nintendo 64控制器摇杆更换与维修: n64-controller-analog-stick-repair.md
+          - Nintendo 64控制器按键维修: n64-controller-button-repair.md
+          - Nintendo 64控制器外壳更换: n64-controller-shell-replacement.md
+          - Nintendo 64控制器主板维修: n64-controller-motherboard-repair.md
+          - Nintendo 64控制器连接线维修: n64-controller-cable-repair.md
       - GameCube:
         - GameCube光盘读取错误修复: gamecube-disc-read-error.md
         - GameCube电源板维修: gamecube-power-supply-repair.md
