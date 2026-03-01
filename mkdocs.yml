@@ -107,6 +107,12 @@ nav:
         - Wii蓝牙/WiFi模块维修: wii-bluetooth-wifi-repair.md
         - Wii视频输出维修: wii-video-output-repair.md
         - Wii散热系统维修: wii-cooling-system-repair.md
+        - Wii Nunchuk维修系列:
+          - Wii Nunchuk摇杆维修与更换: wii-nunchuk-analog-stick-repair.md
+          - Wii Nunchuk按键维修: wii-nunchuk-button-repair.md
+          - Wii Nunchuk外壳更换: wii-nunchuk-shell-replacement.md
+          - Wii Nunchuk主板维修: wii-nunchuk-motherboard-repair.md
+          - Wii Nunchuk连接线维修: wii-nunchuk-cable-repair.md
     - 索尼家用机:
       - PlayStation:
         - PS1激光头调整: ps1-laser-adjustment.md

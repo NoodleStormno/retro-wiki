@@ -67,6 +67,11 @@
   - [Wii蓝牙/WiFi模块维修完全指南](wii-bluetooth-wifi-repair.md) - 修复手柄断连和网络连接问题
   - [Wii视频输出维修完全指南](wii-video-output-repair.md) - 解决无图像或画面异常问题
   - [Wii散热系统维修完全指南](wii-cooling-system-repair.md) - 解决过热和风扇噪音问题
+  - [Wii Nunchuk摇杆维修与更换完全指南](wii-nunchuk-analog-stick-repair.md) - 修复Nunchuk摇杆漂移和精度问题
+  - [Wii Nunchuk按键维修完全指南](wii-nunchuk-button-repair.md) - 修复C键和Z键故障
+  - [Wii Nunchuk外壳更换完全指南](wii-nunchuk-shell-replacement.md) - 更换磨损或损坏的外壳
+  - [Wii Nunchuk主板维修完全指南](wii-nunchuk-motherboard-repair.md) - 修复主板电路问题
+  - [Wii Nunchuk连接线维修完全指南](wii-nunchuk-cable-repair.md) - 修复线缆磨损和连接问题
 - **索尼家用机**：
   - [PS1激光头调整教程](ps1-laser-adjustment.md) - 调整PS1激光头功率
 - **世嘉家用机**：
